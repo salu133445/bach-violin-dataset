@@ -1,4 +1,4 @@
-The Bach Violin Dataset is a collection of high-quality public recordings of Bach's sonatas and partitas for solo violin (BWV 1001–1006). The dataset consists of 6.5 hours of professional recordings from 17 violinists recorded in various recording setups. Reference scores and estimated alignments are also provided. All recordings are collected from the web, and source URLs can be found in `audio.csv`. The dataset can be downloaded [here](https://github.com/salu133445/bach-violin/releases).
+The Bach Violin Dataset is a collection of high-quality public recordings of Bach's sonatas and partitas for solo violin (BWV 1001–1006). The dataset consists of 6.5 hours of professional recordings from 17 violinists recorded in various recording setups. Reference scores and estimated alignments are also provided. All recordings are collected from the web, and their source URLs can be found in `audio.csv`. The dataset can be downloaded [here](https://github.com/salu133445/bach-violin/releases).
 
 ## File organization
 
@@ -50,10 +50,11 @@ The Bach Violin Dataset is a collection of high-quality public recordings of Bac
 - The corresponding reference score for each recording can be found in `info.csv`.
 - Reference scores come in MusicXML format, which can be opened with [MuseScore](https://musescore.org/), [music21](https://web.mit.edu/music21/) and [MusPy](https://salu133445.github.io/muspy/).
 
-## License
+## Citation
 
-All audio files in this dataset are public recordings downloaded from various
-sources. License for each audio file can be found in the associated CSV file
-(`info.csv`). All reference scores are in public domain.
+Please cite the following paper if you use the code or derived annotations provided in this repository.
 
-Please cite the project website (<https://salu133445.github.io/bach-violin/>) if you use this dataset in your work.
+__Deep Performer: Score-to-Audio Music Performance Synthesis__<br>
+Hao-Wen Dong, Cong Zhou, Taylor Berg-Kirkpatrick and Julian McAuley<br>
+_Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, 2022<br>
+[[homepage](https://github.com/salu133445/deepperformer)]
