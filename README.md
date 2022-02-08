@@ -54,8 +54,13 @@ The Bach Violin Dataset is a collection of high-quality public recordings of Bac
 
 ## License
 
-All audio files in this dataset are public recordings downloaded from various
-sources. License for each audio file can be found in the associated CSV file
-(`info.csv`). All reference scores are in public domain.
+ALl audio files in this dataset are public recordings collected from various sources. License information for each audio file can be found in their subdirectory. All reference scores are in public domain. All code and derived annotations are licensed under MIT.
 
-Please cite the project website (<https://salu133445.github.io/bach-violin/>) if you use this dataset in your work.
+## Citing
+
+Please cite the following paper if you use the code or derived annotations provided in this repository.
+
+__Deep Performer: Score-to-Audio Music Performance Synthesis__<br>
+Hao-Wen Dong, Cong Zhou, Taylor Berg-Kirkpatrick and Julian McAuley<br>
+_Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, 2022<br>
+[[homepage](https://github.com/salu133445/deepperformer)]
