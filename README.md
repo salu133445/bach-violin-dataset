@@ -61,6 +61,8 @@ ALl audio files in this dataset are public recordings collected from various sou
 Please cite the following paper if you use the code or derived annotations provided in this repository.
 
 __Deep Performer: Score-to-Audio Music Performance Synthesis__<br>
+<small>
 Hao-Wen Dong, Cong Zhou, Taylor Berg-Kirkpatrick and Julian McAuley<br>
 _Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, 2022<br>
 [[homepage](https://github.com/salu133445/deepperformer)]
+</small>
