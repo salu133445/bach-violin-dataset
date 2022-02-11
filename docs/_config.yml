@@ -1,3 +1,13 @@
 theme: jekyll-theme-minimal
 title: Bach Violin Dataset
 description: A collection of high-quality public recordings of Bach's sonatas and partitas for solo violin (BWV 1001–1006)
+icons:
+  homepage: fas fa-globe-asia
+  video: fab fa-youtube
+  paper: fas fa-file-pdf
+  slides: fas fa-file-pdf
+  poster: fas fa-file-pdf
+  arxiv: fas fa-archive
+  code: fab fa-github
+  documentation: fas fa-book
+  reviews: fas fa-comments
