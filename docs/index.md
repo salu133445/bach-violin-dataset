@@ -4,6 +4,6 @@ Below is an example of the alignment provided, where white dots and green lines 
 
 ![alignment](assets/images/alignment.jpg){: style="max-height: 200px; width: 600px; max-width: 100%;"}
 
-{% include audio_player.html filename="emil-telmanyi_bwv1001_trimmed_30sec.mp3" %}
+{% include audio_player.html filename="assets/audio/emil-telmanyi_bwv1001_trimmed_30sec.mp3" %}
 
 The dataset and the source code for the alignment process can be found [here](https://salu133445.github.io/bach-violin-dataset/).
