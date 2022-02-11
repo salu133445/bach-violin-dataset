@@ -2,8 +2,8 @@ The Bach Violin Dataset is a collection of high-quality public recordings of Bac
 
 Below is an example of the alignment provided, where white dots and green lines show the estimated note onsets and durations.
 
-![alignment](assets/images/alignment.jpg){: style="max-height: 200px; width: 600px; max-width: 100%;"}
+![alignment](assets/images/alignment_trimmed.jpg)
 
 {% include audio_player.html filename="assets/audio/emil-telmanyi_bwv1001_trimmed_30sec.mp3" %}
 
-The dataset and the source code for the alignment process can be found [here](https://salu133445.github.io/bach-violin-dataset/).
+The source code for for creating this dataset can be found [here](https://github.com/salu133445/bach-violin-dataset).
