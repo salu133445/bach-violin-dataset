@@ -1,6 +1,6 @@
 # Alignment Process
 
-> The source code for creating this dataset can be found [here](https://github.com/salu133445/bach-violin-dataset).
+> The source code for creating this dataset can be found in this GitHub [repository](https://github.com/salu133445/bach-violin-dataset).
 
 Below we describe how we derive the alignment between a musical score and a recording. We will use the following score and recording as an example.
 
