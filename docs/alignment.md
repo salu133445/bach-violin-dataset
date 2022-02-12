@@ -36,7 +36,7 @@ onset,offset,pitch,velocity
 
 ## Step 2 -- Synthesize the score
 
-We then synthesize the score using [FluidSynth](https://www.fluidsynth.org/), an open-source software synthesizer, with the [MuseScore General SoundFont](https://musescore.org/en/handbook/3/soundfonts-and-sfz-files).
+We then synthesize the score using [FluidSynth](https://www.fluidsynth.org/), an open-source software synthesizer, with the MuseScore General [soundfont](https://musescore.org/en/handbook/3/soundfonts-and-sfz-files).
 
 ---
 
