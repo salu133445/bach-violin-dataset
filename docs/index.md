@@ -6,4 +6,4 @@ Below is an example of the alignment provided, where white dots and green lines 
 
 {% include audio_player.html filename="assets/audio/emil-telmanyi_bwv1001_trimmed_30sec.mp3" %}
 
-The source code for for creating this dataset can be found [here](https://github.com/salu133445/bach-violin-dataset).
+The source code for creating this dataset can be found [here](https://github.com/salu133445/bach-violin-dataset).

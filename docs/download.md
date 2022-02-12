@@ -1,6 +1,6 @@
 # Download
 
-The dataset can be downloaded [here](https://github.com/salu133445/bach-violin/releases).
+The dataset can be downloaded from [Zenodo](https://zenodo.org/record/6050245) or [GitHub](https://github.com/salu133445/bach-violin-dataset/releases).
 
 ## License
 

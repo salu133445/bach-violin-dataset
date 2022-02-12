@@ -1,6 +1,6 @@
 # Bach Violin Dataset
 
-The Bach Violin Dataset is a collection of high-quality public recordings of Bach's sonatas and partitas for solo violin (BWV 1001–1006). The dataset consists of 6.5 hours of professional recordings from 17 violinists recorded in various recording setups. It also provides the reference scores and estimated alignments between the recordings and scores. The dataset can be downloaded [here](https://github.com/salu133445/bach-violin/releases).
+The Bach Violin Dataset is a collection of high-quality public recordings of Bach's sonatas and partitas for solo violin (BWV 1001–1006). The dataset consists of 6.5 hours of professional recordings from 17 violinists recorded in various recording setups. It also provides the reference scores and estimated alignments between the recordings and scores. The dataset can be downloaded from [Zenodo](https://zenodo.org/record/6050245) or [GitHub](https://github.com/salu133445/bach-violin-dataset/releases).
 
 ## Contents
 
@@ -44,7 +44,7 @@ Below is the file organization of the dataset.
 
 ## Source code
 
-The source code for creating this dataset can be found in the `src` directory. More details can be found in its [README](https://github.com/salu133445/bach-violin-dataset/blob/main/src). An introduction of the alignment process can be found [here](https://salu133445.github.io/bach-violin-dataset/alignment).
+The source code for creating this dataset can be found in the `src` directory. More details can be found in its [README](https://github.com/salu133445/bach-violin-dataset/blob/main/src). An introduction of the alignment process is available [here](https://salu133445.github.io/bach-violin-dataset/alignment).
 
 ## License
 
