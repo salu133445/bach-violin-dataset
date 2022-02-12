@@ -79,7 +79,6 @@
 .gitattributes export-ignore
 .gitignore     export-ignore
 /docs          export-ignore
-/archives      export-ignore
 
 # Basic .gitattributes for a python repo.
 
